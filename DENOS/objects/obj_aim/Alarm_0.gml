@@ -1,0 +1,1 @@
+obj_player.can_shoot = true;
