@@ -8,5 +8,7 @@ wait = false;
 time = 0;
 image_alpha = 0;
 
-direction = point_direction(x, y, global.aimTargetX, global.aimTargetY);
+direction = point_direction(x, y, global.aim_target_x, global.aim_target_y);
 image_angle = direction;
+
+damage = 2;

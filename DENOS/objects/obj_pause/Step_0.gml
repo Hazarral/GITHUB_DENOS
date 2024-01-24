@@ -7,8 +7,8 @@ if(room == rm_game){
 			paused_surface = -1;
 		}
 	}
-	if(paused == true){
+	/*if(paused == true){
 		alarm[0]++;	//ADDING ONE EVERY FRAME TO COUNTER IT
 		alarm[1]++;
-	}
+	}*/
 }

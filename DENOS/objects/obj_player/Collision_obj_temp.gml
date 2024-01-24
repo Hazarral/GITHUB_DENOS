@@ -1,5 +1,3 @@
-knockback = false;
-
 if(!invulnerable && !knockback){
 	image_alpha = 0.5;
 	knockback = true;

@@ -1,6 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//3 HIT
+
+
+//APPEAR
 if(!wait && image_alpha < 1){
 	mask_index = -1;	//no hitbox when appearing
 	wait = true;
@@ -10,7 +14,17 @@ if(!wait && image_alpha < 1){
 
 if(image_alpha >= 1){
 	mask_index = sprite;
-	speed = 40;
+	
+	//3 HIT
+	if(obj_aim.attack == 3){
+		image_blend = c_orange;
+		speed = 80;
+	}else{
+		image_blend = c_white;
+		speed = 40;
+	}
+	
+	//COLLIDE WITH TEMP
 	if(place_meeting(x, y, obj_temp)){
 		speed = 0;
 		image_blend = c_red;

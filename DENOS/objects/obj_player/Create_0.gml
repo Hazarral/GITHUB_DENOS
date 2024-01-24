@@ -6,6 +6,7 @@ can_dash = true;
 invulnerable = false;
 move_lock = false;
 player_speed = 10;
+knockback = false;
 
 //IN FRAMES
 dash_duration = 12;
