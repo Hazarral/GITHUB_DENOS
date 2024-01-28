@@ -7,4 +7,4 @@ Currently I have the basic movement with dash and aim mechanic. There are more f
 The end goal is to make something like Soul Knight and 20 Minutes till dawn, but the mechanic is more intensive, like Dead Cells.
 
 TODO:
-- [] make a proper list of things to do
+https://trello.com/invite/b/BbA2A8yh/ATTI85be4b82acddd997af4f2ed225b4b17cC106B357/denos
