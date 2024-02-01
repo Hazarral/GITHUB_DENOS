@@ -14,6 +14,7 @@ player_damage = 2;
 max_hp = 3;
 current_hp = 3;
 level = 1;
+total_xp = 0;
 current_xp = 0;
 
 //IN FRAMES

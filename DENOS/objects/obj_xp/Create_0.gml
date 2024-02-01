@@ -1,1 +1,1 @@
-xp_value = 5;
+xp_value = 6;
