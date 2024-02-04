@@ -37,6 +37,7 @@
     {"name":"spr_xp","order":12,"path":"sprites/spr_xp/spr_xp.yy",},
     {"name":"obj_enemy_triangle_elite","order":1,"path":"objects/obj_enemy_triangle_elite/obj_enemy_triangle_elite.yy",},
     {"name":"spr_temp","order":1,"path":"sprites/spr_temp/spr_temp.yy",},
+    {"name":"spr_card","order":13,"path":"sprites/spr_card/spr_card.yy",},
     {"name":"obj_temp","order":1,"path":"objects/obj_temp/obj_temp.yy",},
     {"name":"giveXP","order":9,"path":"scripts/giveXP/giveXP.yy",},
     {"name":"obj_spike","order":2,"path":"objects/obj_spike/obj_spike.yy",},
