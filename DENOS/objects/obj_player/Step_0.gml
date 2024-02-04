@@ -38,3 +38,5 @@ if(!move_lock){
 
 x = clamp(x, sprite_width/2, room_width -  sprite_width/2);
 y = clamp(y, sprite_height/2, room_height -  sprite_height/2);
+
+window_mouse_set(clamp(window_mouse_get_x(), 0, window_get_width()), clamp(window_mouse_get_y(), 0, window_get_height()));

@@ -11,3 +11,4 @@ knockback = true;
 //IN FRAMES
 dash_duration = 12;
 dash_cd = 30;
+

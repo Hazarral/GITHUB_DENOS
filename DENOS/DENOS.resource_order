@@ -37,6 +37,7 @@
     {"name":"hitEffect","order":1,"path":"scripts/hitEffect/hitEffect.yy",},
     {"name":"obj_enemy_parent","order":2,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"Ditherer","order":1,"path":"objects/Ditherer/Ditherer.yy",},
     {"name":"dealDamage","order":2,"path":"scripts/dealDamage/dealDamage.yy",},
     {"name":"spr_spike_2","order":1,"path":"sprites/spr_spike_2/spr_spike_2.yy",},
     {"name":"spr_bg","order":8,"path":"sprites/spr_bg/spr_bg.yy",},
