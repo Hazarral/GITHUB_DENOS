@@ -1,2 +1,0 @@
-deathEffect();
-instance_destroy();
